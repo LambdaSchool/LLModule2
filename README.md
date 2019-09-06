@@ -9,10 +9,10 @@ These tasks are to be completed during the project time for your track. For full
 
 We want to make sure that your equipment is ready and that you are ready to learn. Please go through the checklist below using the resources found in this curriculum to double check that you are ready. 
 
-#Technology Checklist
-#Module 2 Project
+# Technology Checklist
+# Module 2 Project
 
-###Please complete this checklist to be sure you have an adequate system and have met the technology prerequisites
+### Please complete this checklist to be sure you have an adequate system and have met the technology prerequisites
 
 1. System Requirements. 
 
